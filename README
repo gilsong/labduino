@@ -1,3 +1,2 @@
-Exemplo de uso do arduino com python
-Neste exemplo um gráfico mostra a distancia em centímetros
-
+Exemplo de uso do arduino com python para exibição em tempo real da captura de dados.
+Neste exemplo os dados vindos de um sensor de distância ultrasonico ligado ao arduino são mostrados em um gráfico gerado por um programa em python.
